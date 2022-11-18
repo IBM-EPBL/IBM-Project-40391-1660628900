@@ -1,11 +1,13 @@
 # IBM-Project-40391-1660628900
-# Project title - AI-powered Nutrition Analyzer for Fitness Enthusiasts
+# Project Title - AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Domain: Artificial Intelligence
 Team ID: PNT2022TMID37067
 Team Lead: Vijayamurugan.S
 
-Team:  Deepak.S, Keethivasan.G, Velan.S
+Team:  Deepak.S, 
+       Keethivasan.G,
+       Velan.S
 
 Industry Mentor Name:  Sri Tulasi
 Faculty Mentor Name:  Sandra Karunya G
@@ -22,11 +24,11 @@ The user interacts with the UI (User Interface) and give the image as input. The
 
 To accomplish this, we have to complete all the activities and tasks listed below
 
-# Data Collection:
+ Data Collection:
 
- #Collect the dataset or Create the dataset
+ Collect the dataset or Create the dataset
  
-# Data Preprocessing:
+ Data Preprocessing:
 
  Import the ImageDataGenerator library
 
@@ -34,7 +36,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
  ApplyImageDataGenerator functionality to Trainset and Testset
 
-# Model Building:
+ Model Building:
 
  Import the model building Libraries
 
@@ -52,7 +54,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
  Save the Model
 
-# Application Building:
+ Application Building:
 
  Create an HTML file
 
