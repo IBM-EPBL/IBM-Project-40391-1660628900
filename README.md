@@ -1,5 +1,5 @@
 # IBM-Project-40391-1660628900
-project title - AI-powered Nutrition Analyzer for Fitness Enthusiasts
+# Project title - AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Domain: Artificial Intelligence
 Team ID: PNT2022TMID37067
@@ -28,32 +28,32 @@ To accomplish this, we have to complete all the activities and tasks listed belo
  
 # Data Preprocessing:
 
- #Import the ImageDataGenerator library
+ Import the ImageDataGenerator library
 
- #Configure ImageDataGenerator class
+ Configure ImageDataGenerator class
 
- #ApplyImageDataGenerator functionality to Trainset and Testset
+ ApplyImageDataGenerator functionality to Trainset and Testset
 
 # Model Building:
 
- #Import the model building Libraries
+ Import the model building Libraries
 
- #Initializing the model
+ Initializing the model
 
- #Adding Input Layer
+ Adding Input Layer
 
- #Adding Hidden Layer
+ Adding Hidden Layer
 
- #Adding Output Layer
+ Adding Output Layer
 
- #Configure the Learning Process
+ Configure the Learning Process
 
- #Training and testing the model
+ Training and testing the model
 
- #Save the Model
+ Save the Model
 
 # Application Building:
 
- #Create an HTML file
+ Create an HTML file
 
- #Build Python Code
+ Build Python Code
