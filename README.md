@@ -2,7 +2,9 @@
 # Project Title - AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Domain: Artificial Intelligence
+
 Team ID: PNT2022TMID37067
+
 Team Lead: Vijayamurugan.S
 
 Team:  Deepak.S, 
