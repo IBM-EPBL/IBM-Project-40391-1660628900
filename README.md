@@ -27,11 +27,11 @@ The user interacts with the UI (User Interface) and give the image as input. The
 
 To accomplish this, we have to complete all the activities and tasks listed below
 
- #### Data Collection:
+ #### 1.Data Collection:
 
  Collect the dataset or Create the dataset
  
- #### Data Preprocessing:
+ #### 2.Data Preprocessing:
 
  Import the ImageDataGenerator library
 
@@ -39,7 +39,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
  ApplyImageDataGenerator functionality to Trainset and Testset
 
- #### Model Building:
+ #### 3.Model Building:
 
  Import the model building Libraries
 
@@ -57,7 +57,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
  Save the Model
 
- #### Application Building:
+ #### 4.Application Building:
 
  Create an HTML file
 
